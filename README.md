@@ -2,7 +2,7 @@
 
 Build using Vite.js
 
-## Inclues
+## Includes
 
 - React typescript
 - Mui
